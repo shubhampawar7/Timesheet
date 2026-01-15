@@ -36,4 +36,4 @@ I went with a modern React setup for this one:
 
 ## Time Spent
 
-Spent about **27 hours** working on this, covering everything from the initial setup and design to the implementation.
+Spent about **27 hours** working on this, covering everything from the initial setup and design to the implementation and Testing the flow.
